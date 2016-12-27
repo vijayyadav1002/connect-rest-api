@@ -1,0 +1,22 @@
+{
+  "name": "connect-rest-api",
+  "version": "1.0.0",
+  "description": "It implements express session store using Restful API",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express-session",
+    "session-store"
+  ],
+  "author": "Vijay Yadav",
+  "license": "MIT",
+  "devDependencies": {
+    "debug": "^2.5.2",
+    "lodash": "^4.17.3"
+  }
+}
