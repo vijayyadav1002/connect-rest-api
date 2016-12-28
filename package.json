@@ -1,5 +1,5 @@
 {
-  "name": "connect-rest-api",
+  "name": "@vijayyadav1002/connect-rest-api",
   "version": "1.0.0",
   "description": "It implements express session store using Restful API",
   "main": "index.js",
@@ -9,6 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/vijayyadav1002/connect-rest-api.git"
+},
   "keywords": [
     "express-session",
     "session-store"
