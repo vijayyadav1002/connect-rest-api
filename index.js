@@ -1,2 +1,2 @@
-var connectStore = require('./lib/connect-rest-api');
-module.exports = connectStore;
+var connectRestApiStore = require('./lib/connect-rest-api');
+module.exports = connectRestApiStore;
