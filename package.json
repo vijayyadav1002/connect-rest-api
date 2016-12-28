@@ -1,5 +1,5 @@
 {
-  "name": "@vijayyadav1002/connect-rest-api",
+  "name": "connect-rest-api",
   "version": "1.0.0",
   "description": "It implements express session store using Restful API",
   "main": "index.js",
